@@ -1,1 +1,1 @@
-["Wakeup early", "study time 5am-6.30am"]
+[{"task": "wake up", "complete": true}, {"task": "study time 6-7", "complete": false}]
